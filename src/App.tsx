@@ -158,8 +158,8 @@ function App() {
               <div className="bg-white rounded-lg p-6 sm:p-8 max-w-[90%] sm:max-w-md text-center">
                 <h3 className="text-xl sm:text-2xl font-bold mb-4">Seu Presente Especial</h3>
                 <p className="mb-6 text-sm sm:text-base">
-                  Amor, seu presente especial está esperando por você no nosso restaurante favorito às 20h.
-                  Vista seu melhor sorriso e venha preparada para uma noite inesquecível! ❤️
+                Hoje é o seu aniversário, e se você mudar de ideia até domingo, posso enviar um café da manhã pra você na segunda-feira de manhã. 
+                Só basta me dizer 😄💖
                 </p>
                 <button
                   onClick={() => setShowGift(false)}

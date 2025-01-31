@@ -1,17 +1,17 @@
 {
-  "homepage": "https://Graphein.github.io/Aniversario",
+"homepage": "https://Graphein.github.io/Aniversario",
   "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "dev": "vite",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+"scripts": {
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
+  "dev": "vite",
+  "lint": "eslint .",
+  "preview": "vite preview"
+},
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
